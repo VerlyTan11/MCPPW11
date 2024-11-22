@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "876803939647",
+    "project_id": "mcpp-w11",
+    "storage_bucket": "mcpp-w11.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876803939647:android:f4d993430035b8db77478a",
+        "android_client_info": {
+          "package_name": "com.anonymous.Week11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbYyDsSB6F6NmHjRAcX8U6sP3c7qGK22k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
